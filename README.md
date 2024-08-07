@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # C Projects
 > Coding projects completed for CS 341: System Programming at the University of Illinois Urbana Champaign
 >
