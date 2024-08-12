@@ -1,7 +1,8 @@
 # C Projects
-> Coding projects completed for CS 341: System Programming at the University of Illinois Urbana Champaign
->
-> Please note: the files listed below were partially or entirely written by me. All other files included in a given project were provided as starter code.
+
+This repository contains several coding projects written in C for a Linux environment.
+
+Please note: only the files listed below were entirely or partially written by me. All other files included in a given project were provided as starter code.
 
 ## files_mmap_fseek_fread
 
